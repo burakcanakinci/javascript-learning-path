@@ -23,3 +23,9 @@ button {
   border: none;
   border-radius: 2px;
 }
+
+@media only screen and (max-width: 304px) {
+  button {
+    margin-top: 2px;
+  }
+}
